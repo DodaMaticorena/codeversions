@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+  background: url(../reto-trivia/img/peliculas-animadas.jpg);
+  opacity: 0.95;
+}
+header {
+  background-color: #F0FFFF;
+  border-radius: 80px;
+}
+h1 {
+  color: #331100;
+	text-align: center;
+  font-size: 40px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  padding: 20px 30px 20px 30px;
+}
+div {
+  color: #FFFFFF;
+	text-align: center;
+  margin: 10px;
+  font-size: 28px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-weight: bold;
+  padding: 20px 30px 20px 30px;
+}
