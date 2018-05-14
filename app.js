@@ -18,7 +18,7 @@ do {
       if (startGame === '1') {
         alert('¡Empecemos el juego!');
 // Preguntas trivia
-        var questionA = prompt('1.-¿"Moana" tiene como mascotas a un cerdito y un pollito? \n Elige una opción: \n 1. Sí \n 2. No \n 3. No sé');
+        var questionA = prompt('1.-¿"Moana" tiene como mascotas a un cerdito y un gallito? \n Elige una opción: \n 1. Sí \n 2. No \n 3. No sé');
         var questionB = prompt('2.-¿Quién tiene poderes de hielo en "Frozen"?').toUpperCase();
         var questionC = prompt('3.-¿Cómo se llama la niña de "Intensamente"? \n Elige una opción: \n 1. Anastasia \n 2. Riley \n 3. Merida');
 // Respuestas
